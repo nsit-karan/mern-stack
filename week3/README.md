@@ -16,3 +16,8 @@
 * There is a setInterval call which keeps filling in TODOs using a random count of TODOs
 * Note - this is a demonstration of how the page can get refreshed continusouly by fetching/refreshing the UI
   with the new TODO list
+* To run the code, directly launch "index.html" in any browser and it will show the list of todos continuously
+  refreshing on the screen
+* Note - this is a highly unoptimal way of refreshing the page with todos:
+  * Ideally, the old todo and new todo list should be matched with elements added/deleted/edited accordingly
+    instead of wiping out the todos and rendering all the todos again
