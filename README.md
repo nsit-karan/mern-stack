@@ -2,15 +2,15 @@
 mern stack course related repo
 
 # Week1
-* Assignments - DONE
+* [x] Assignments - DONE
 
 # Week2
-* Assignments - DONE.
+* [x] Assignments - DONE.
 * hard on promised pending
 
 # Week3
 * Todo server with UI supporting add/delete/get from the UI using express based backend and non-react based UI
-* Assignments - in-progress
+* [ ] Assignments - in-progress
 
 # Week3-4 extra classes
 * advanced design - pending
