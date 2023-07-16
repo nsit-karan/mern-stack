@@ -26,3 +26,12 @@ mern stack course related repo
 * react based UI - basics.
 * react based UI - cover useState, useEffect, components
 * Tied the basic todo server with a reactfront - both projects have to be started separately
+
+# Week 5
+
+# Week 6
+* Use socket.io to create a browser based chat application
+  * the chat code is in ws-server
+  * refer to socket.io and the get started code - the code
+    pushed to github is based on that
+  * read up on websocket, webrtc and understand the differences
